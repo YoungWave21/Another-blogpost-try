@@ -1,0 +1,65 @@
+
+    <ul class="s_posts">
+        <!-- Post One -->
+        <li class="s_post">
+            <div class="s_post-inner">
+                <div class="s_image" style="background-image: url(https://images.unsplash.com/photo-1548678928-070e09a5c847?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);"></div>
+                <div class="s_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque eros,
+                    rutrum
+                    sed
+                    cursus in, placerat in urna. Morbi libero erat, molestie in sem non, elementum pharetra nunc.
+                    Nulla
+                    quis accumsan arcu, vitae laoreet mauris. Interdum et malesuada fames ac ante ipsum primis in
+                    faucibus.</div>
+            </div>
+        </li>
+
+        <!-- Post Two -->
+        <li class="s_post">
+            <div class="s_post-inner">
+                <div class="s_image" style="background-image: url(https://images.unsplash.com/photo-1547997256-5ab9d81814fe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);"></div>
+                <div class="s_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque eros,
+                    rutrum
+                    sed
+                    cursus in, placerat in urna. Morbi libero erat, molestie in sem non, elementum pharetra nunc.
+                    Nulla
+                    quis accumsan arcu, vitae laoreet mauris. Interdum et malesuada fames ac ante ipsum primis in
+                    faucibus.
+                    Curabitur venenatis odio risus, fringilla dictum purus rhoncus non. Donec sodales convallis
+                    fermentum.
+                    Proin rutrum cursus erat, in finibus sapien tristique at.</div>
+            </div>
+
+        </li>
+
+        <!-- Post Three -->
+        <li class="s_post">
+            <div class="s_post-inner">
+                <div class="s_image" style="background-image: url(https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);"></div>
+                <div class="s_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque eros,
+                    rutrum
+                    sed
+                    cursus in, placerat in urna. Morbi libero erat, molestie in sem non, elementum pharetra nunc.</div>
+            </div>
+        </li>
+
+        <!-- Post Four -->
+        <li class="s_post">
+            <div class="s_post-inner">
+                <div class="s_image" style="background-image: url(https://images.unsplash.com/photo-1548251114-b2a5a091b67a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);"></div>
+                <div class="s_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque eros,
+                    rutrum
+                    sed
+                    cursus in, placerat in urna. Morbi libero erat, molestie in sem non, elementum pharetra nunc.</div>
+            </div>
+        </li>
+
+        <!-- Post Five -->
+        <li class="s_post">
+            <div class="s_post-inner">
+                <div class="s_image" style="background-image: url(https://images.unsplash.com/photo-1548236434-a7f255435aa9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);"></div>
+                <div class="s_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+            </div>
+        </li>
+
+    </ul>
